@@ -5,7 +5,7 @@ export interface Product {
   description: string;
 }
 
-export const products = [
+export const productRepo = [
   {
     id: 1,
     name: 'Phone XL',
